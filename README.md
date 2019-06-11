@@ -1,2 +1,0 @@
-# goTest
-go框架

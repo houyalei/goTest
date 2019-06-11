@@ -1,0 +1,2 @@
+[INFO][test.go:17]2019/04/26 16:03:16 [Error 1054: Unknown column 'create_by' in 'field list']
+[INFO][test.go:17]2019/04/26 16:20:01 [Error 1146: Table 'blog.log_tag' doesn't exist]

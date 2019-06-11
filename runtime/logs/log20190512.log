@@ -1,0 +1,7 @@
+[INFO][bill.go:23]2019/05/12 15:44:28 [EOF]
+[INFO][bill.go:23]2019/05/12 15:45:42 [EOF]
+[INFO][bill.go:23]2019/05/12 15:46:26 [EOF]
+[INFO][bill.go:23]2019/05/12 16:36:41 [json: cannot unmarshal string into Go value of type map[string]interface {}]
+[INFO][bill.go:23]2019/05/12 16:37:59 [json: cannot unmarshal string into Go value of type map[string]interface {}]
+[INFO][bill.go:23]2019/05/12 16:38:15 [json: cannot unmarshal string into Go value of type map[string]interface {}]
+[INFO][bill.go:23]2019/05/12 16:38:16 [json: cannot unmarshal string into Go value of type map[string]interface {}]
